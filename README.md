@@ -1,8 +1,8 @@
-// Esercizio 2 :
+- Esercizio 2 :
 
 db-first
 
-// Esercizio 2 :
+- Esercizio 2 :
 
 Provare a strutturare il seguente database che modellizza un hotel:
 Ci sono varie stanze, ognuna con le proprie caratteristiche.
