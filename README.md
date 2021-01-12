@@ -1,4 +1,4 @@
-- Esercizio 2 :
+- Esercizio 1 :
 
 db-first
 
